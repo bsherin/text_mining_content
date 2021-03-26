@@ -1,5 +1,3 @@
-# text_mining_content
-
 # Getting setup
 
 These directions are to, a certain extent, mac specific. Linux machines will be very similar. Windows machines will be close, but will differ here and there.
@@ -11,20 +9,17 @@ On a mac, I recommend that you do this in your home directory.
 
 ```
 cd ~
-git clone https://github.com/bsherin/LS_mining_course.git
+git clone https://github.com/bsherin/text_mining_2021.git
 ```
 
-If that doesn't seem to work, click on of the links on this page to simply
-download the files.
-
-When you're done, you should have a new folder named `LS_mining_course`.
+When you're done, you should have a new folder named `text_mining_2021`.
 
 ## 2. Create your python virtual environment
 
-Open a Terminal application and `cd` into the `LS_mining_course` folder you just created
+Open a Terminal application and `cd` into the `text_mining_2021` folder you just created
 
 ```
-cd LS_mining_course
+cd text_mining_2021
 ```
 Then use these commands to create the virtual environment.
 
@@ -34,15 +29,23 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 3. Launch the jupyter notebook or jupyter lab
+## 3. Grap the other files from this page
 
-Steps 1 and 2 above you only have to do once. But step 3 you might need to do
+Go to the top of this page, click on the big green "Code" button and
+then click "Download ZIP".
+
+You'll end up with a folder of files. Take the files out of that folder
+and put them into the `text_mining_2021` folder.
+
+## 4. Launch the jupyter notebook or jupyter lab
+
+Steps 1 and 2 above you only have to do once. But step 4 you might need to do
 whenever you start working.
 
-First `cd` into the LS_mining_course folder
+Go back into your terminal. First `cd` into the text_mining_2021 folder
 
 ```
-cd ~/LS_mining_course
+cd ~/text_mining_2021
 ```
 
 Then activate the python virtual environment you created above
