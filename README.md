@@ -29,13 +29,13 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 3. Grap the other files from this page
+## 3. Grab the other files from this page
 
 Go to the top of this page, click on the big green "Code" button and
 then click "Download ZIP".
 
 You'll end up with a folder of files. Take the files out of that folder
-and put them into the `text_mining_2021` folder.
+and drag them into the `text_mining_2021` folder.
 
 ## 4. Launch the jupyter notebook or jupyter lab
 
