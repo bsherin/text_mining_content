@@ -1,4 +1,5 @@
 # text_mining_content
+
 # Getting setup
 
 These directions are to, a certain extent, mac specific. Linux machines will be very similar. Windows machines will be close, but will differ here and there.
