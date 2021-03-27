@@ -8,7 +8,7 @@ A first step is to copy the material from this repository to your own computer.
 On a mac, I recommend that you do this in your home directory. (`cd` means "change directory")
 
 ```
-cd ~
+cd ~  # won't work
 git clone https://github.com/bsherin/text_mining_2021.git
 ```
 
@@ -26,6 +26,14 @@ Then use these commands to create the virtual environment.
 ```
 virtualenv -p /usr/local/bin/python3 venv
 source venv/bin/activate
+pip install -r requirements.txt
+```
+
+On Windows
+```
+python3 -m venv venv
+venv\Scripts\activate.bat # cmd.exe
+venv\Scripts\Activate.ps1 # PowerShell
 pip install -r requirements.txt
 ```
 
