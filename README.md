@@ -5,7 +5,7 @@ These directions are to, a certain extent, mac specific. Linux machines will be 
 ## 1. Copy stuff from this github repository
 
 A first step is to copy the material from this repository to your own computer.
-On a mac, I recommend that you do this in your home directory.
+On a mac, I recommend that you do this in your home directory. (`cd` means "change directory")
 
 ```
 cd ~
