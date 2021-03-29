@@ -1,7 +1,9 @@
 
 <div class="csl-entry" >Baumer, E. P., Mimno, D., Guha, S., Quan, E., &amp; Gay, G. K. (2017). Comparing grounded theory and topic modeling: Extreme divergence or unlikely convergence? <i>Journal of the Association for Information Science and Technology</i>, <i>68</i>(6), 1397–1410. <a href="Baumer2017.pdf">(pdf)</a></div>
 
+
 <div class="csl-entry">Kersting, N. B., Sherin, B. L., &amp; Stigler, J. W. (2014). Automated Scoring of Teachers’ Open-Ended Responses to Video Prompts Bringing the Classroom-Video-Analysis Assessment to Scale. <i>Educational and Psychological Measurement</i>, <i>74</i>(6), 950–974. <a href="Kersting2014.pdf">(pdf)</a></div>
+
 
 <div class="csl-entry">Landauer, T., Foltz, P. W., &amp; Laham, D. (1998). An introduction to latent semantic analysis. <i>Discourse Processes</i>, <i>25</i>, 259–284. (7972838336528050004related:VOdepDk2pW4J).</div>
 <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=An%20introduction%20to%20latent%20semantic%20analysis&amp;rft.jtitle=Discourse%20Processes&amp;rft.stitle=Discourse%20Process.&amp;rft.volume=25&amp;rft.aufirst=T.&amp;rft.aulast=Landauer&amp;rft.au=T.%20Landauer&amp;rft.au=Peter%20W.%20Foltz&amp;rft.au=D.%20Laham&amp;rft.date=1998&amp;rft.pages=259-284&amp;rft.spage=259&amp;rft.epage=284&amp;rft.issn=0163-853X&amp;rft.language=English"></span>
