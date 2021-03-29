@@ -1,8 +1,9 @@
 # Getting started with Tactic
 
-Tactic lives at tactic.northwestern.edu. Chrome is the recommended browser.
+Tactic lives at `tactic.northwestern.edu`. Chrome is the recommended browser.
 
-I have created accounts for all of you. Your username is your netid. Your password is initially set to tm2021. After logging in, you can change
+I have created accounts for all of you. Your username is your netid.
+Your password is initially set to tm2021. After logging in, you can change
 your password, if you want, by clicking on your netid at the top right.
 
 (Even though we're using netids, your Tactic accounts aren't linked to your
