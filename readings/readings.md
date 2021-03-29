@@ -1,4 +1,6 @@
 
+# Readings
+
 <div class="csl-entry">Whitington, J. (2020). <i>Python from the Very Beginning</i>. <a href="https://coherentpdf.com/python/pythonfromtheverybeginning.html">(Link)</a></div>
 <br>
 
