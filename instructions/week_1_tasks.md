@@ -8,5 +8,5 @@ we used in class. Just to get comfortable.
     * You might want to also try the versions of these notebooks in Tactic.
   ([Instructions](getting_started_with_tactic.md))
 3. Try the `Solo Work 1` notebook.
-4. Work through Chapters 1-7 in "Python From the Very Beginning". Don't feel
+4. Work through Chapters 1-7 in "Python From the Very Beginning" ([link](https://coherentpdf.com/python/pythonfromtheverybeginning.html)). Don't feel
 like you have to do everything. Try what seems helpful.
