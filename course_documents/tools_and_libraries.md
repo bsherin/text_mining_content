@@ -24,5 +24,5 @@
 * mallet
 
 ## Other resources
-[dkpro](https://dkpro.github.io) A collection of projects
-[c-rater-ml](https://www.ets.org/accelerate/ai-portfolio/c-rater/)
+* [dkpro](https://dkpro.github.io) A collection of projects
+* [c-rater-ml](https://www.ets.org/accelerate/ai-portfolio/c-rater/)
