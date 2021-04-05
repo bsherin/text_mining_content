@@ -16,8 +16,15 @@ virtual environment. Then run this command:
 
   Tactic, of course, has its own version of the variable inspector built in.
 
-1. Grab the new notebooks for this week from this repository and put them
-in your `text_mining_2021` folder. They are numbered W2-1 through W2-4. (If your decide to work in Tactic you'll need to grab the new resources from the repository. I can tell you how to do that.)
+1. Grab the new notebooks for this week. They are numbered W2-1 through W2-4.
+    * If you're not using Tactic, grab the new notebooks for this week from this repository and put them in your `text_mining_2021` folder.
+    * If you're using Tactic grab the new resources from the Tactic repository.
+      * Go into tactic and click on "Repository" in the Navbar at the top of the page
+      * Navigate to the `Projects` tab.
+      * Highlight one notebook at a time and click this button:
+      <img src="downbut.png" alt="drawing" width="25"/>. That will copy the resources
+      to your personal library. After you've got all of the new notebooks you can
+      close the browser tab with the repository.
 
 2. Review the three notebooks that we went through in class. Take your time
 understanding them.
