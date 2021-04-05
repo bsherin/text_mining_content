@@ -30,3 +30,8 @@ virtual environment. Then run this command:
 understanding them.
 
 3. Try the tasks in `W2-4 Solo work`.
+
+4. I uploaded a [chapter](https://github.com/bsherin/text_mining_content/blob/main/readings/ManningChapter5.pdf) from a textbook that talks about collocations. The latter
+part of the chapter talks about a number of different ways of doing them
+hypothesis testing. I don't think you'd get much from trying to understanding
+all of these different methods. So maybe skim the last parts.
