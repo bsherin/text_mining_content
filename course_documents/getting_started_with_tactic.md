@@ -5,7 +5,7 @@
 Tactic lives at `tactic.northwestern.edu`. Chrome is the recommended browser.
 
 I have created accounts for all of you.
-  - Username: [your netid]
+  - Username: [your netid in lower case]
   - Pasword: tm2021
 
 After logging in, you can change your password, if you want, by clicking on your netid at the right of the top navigation bar.
