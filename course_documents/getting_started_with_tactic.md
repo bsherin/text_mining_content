@@ -18,6 +18,6 @@ The tabs down the lefthand side give you access to the different parts of
 your Tactic resource library. If you second tab down from the top accesses
 your "Projects", which includes the notebooks you'll be using. Click on that.
 Once you're there you can double-click on a notebook to open it.
-
+Â
 ## General Tactic Documentation
 The general documentation for Tactic is at the `Docs` link in the top bar.
