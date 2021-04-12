@@ -17,3 +17,4 @@
 ## Weekly Work
 * Week 1 work is [here](course_documents/week_1_tasks.md)
 * Week 2 work is [here](course_documents/week_2_tasks.md)
+* Week 3 work is [here](course_documents/week_3_tasks.md)
