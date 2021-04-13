@@ -10,5 +10,5 @@
 on them.
     * This dataset has been the focus of a Kaggle challenge. If you poke around on the internet you might be able to find some suggestions. (I haven't poked around myself so I'm not sure.)
 4. Try the tasks in notebook 3-5 which use a new non-text corpus.
-5. See if you can improve on our analysis of the spam (text) corpus in notebook 3-4.
+5. See if you can improve on our analysis of the spam (text) corpus in notebook 3-4. (If we get to this in class.)
 6. The nltk book has a chapter on classifying text [here](http://www.nltk.org/book/ch06.html). I think it's worth taking a read through. But you'll see that it uses, as its first example, the "gender classification" of names. You can decide what you think about this. (What I think: If we treat it as an attempt to understand what people are responding to when they see a name as male or female, then that makes this an appropriate and interesting endeavor. But we should tread more sensitively than the authors of this chapter.)
