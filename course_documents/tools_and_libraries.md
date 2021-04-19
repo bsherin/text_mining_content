@@ -2,12 +2,12 @@
 # Tools and Libraries
 ## GUI Tools
 
-* [Rapidminer](https://rapidminer.com)
 * [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
-* [Knime](https://www.knime.com) costs $$
-* [Orange](https://orangedatamining.com)
 * [LightSIDE](http://ankara.lti.cs.cmu.edu/side/download.html)
-* [LIWC](http://liwc.wpengine.com)
+* [Rapidminer](https://rapidminer.com)
+* [Orange](https://orangedatamining.com)
+* [LIWC](http://liwc.wpengine.com) (If you want to try this I'll pay for a rental)
+* [Knime](https://www.knime.com) (Costs $$, I think.)
 * SPSS text mining?
 
 ## Libraries
