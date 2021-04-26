@@ -19,3 +19,4 @@
 * Week 2 work is [here](course_documents/week_2_tasks.md)
 * Week 3 work is [here](course_documents/week_3_tasks.md)
 * Week 4 work is [here](course_documents/week_4_tasks.md)
+* Week 5 work is [here](course_documents/week_5_tasks.md)
