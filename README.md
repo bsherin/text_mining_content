@@ -21,3 +21,4 @@
 * Week 4 work is [here](course_documents/week_4_tasks.md)
 * Week 5 work is [here](course_documents/week_5_tasks.md)
 * Week 7 work is [here](course_documents/week_7_tasks.md)
+* Week 8 work is [here](course_documents/week_8_tasks.md)
